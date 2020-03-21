@@ -4,7 +4,7 @@ Our challenge at [devpost.com](https://devpost.com/software/1_0018_mentalhealth_
 
 ## How to join
 
-Join us at slack.com or simply fork the repository and provide pull requests.
+Join us at slack.com (channel #1_0018_mentalhealth_homealonechallenge) or simply fork the repository and provide pull requests.
 
 ## How to build
 
