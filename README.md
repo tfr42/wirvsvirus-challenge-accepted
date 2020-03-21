@@ -34,4 +34,4 @@ Build the app with:
 
 # License 
 
-All code in this repository is distributed under the [Apache License 2.0 (Apache-2.0)](License)
+All code in this repository is distributed under the [Apache License 2.0 (Apache-2.0)](LICENSE)
