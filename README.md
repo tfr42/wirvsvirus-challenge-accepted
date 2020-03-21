@@ -1,6 +1,6 @@
 # wirvsvirus-challenge-accepted
 
-Our challange at [devpost.com](https://devpost.com/software/1_0018_mentalhealth_homealonechallenge-wganer)
+Our challenge at [devpost.com](https://devpost.com/software/1_0018_mentalhealth_homealonechallenge-wganer)
 
 ## How to join
 
