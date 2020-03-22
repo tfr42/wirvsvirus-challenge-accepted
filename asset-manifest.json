@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/wirvsvirus-challenge-accepted/static/css/main.9b1431d8.chunk.css",
-    "main.js": "/wirvsvirus-challenge-accepted/static/js/main.321e3216.chunk.js",
-    "main.js.map": "/wirvsvirus-challenge-accepted/static/js/main.321e3216.chunk.js.map",
+    "main.css": "/wirvsvirus-challenge-accepted/static/css/main.36bac57c.chunk.css",
+    "main.js": "/wirvsvirus-challenge-accepted/static/js/main.4dc8815b.chunk.js",
+    "main.js.map": "/wirvsvirus-challenge-accepted/static/js/main.4dc8815b.chunk.js.map",
     "runtime~main.js": "/wirvsvirus-challenge-accepted/static/js/runtime~main.10278157.js",
     "runtime~main.js.map": "/wirvsvirus-challenge-accepted/static/js/runtime~main.10278157.js.map",
-    "static/js/2.cae4966e.chunk.js": "/wirvsvirus-challenge-accepted/static/js/2.cae4966e.chunk.js",
-    "static/js/2.cae4966e.chunk.js.map": "/wirvsvirus-challenge-accepted/static/js/2.cae4966e.chunk.js.map",
+    "static/js/2.fd230517.chunk.js": "/wirvsvirus-challenge-accepted/static/js/2.fd230517.chunk.js",
+    "static/js/2.fd230517.chunk.js.map": "/wirvsvirus-challenge-accepted/static/js/2.fd230517.chunk.js.map",
     "index.html": "/wirvsvirus-challenge-accepted/index.html",
-    "precache-manifest.dfd7ee2cbf2fb873677f5a1948a5b479.js": "/wirvsvirus-challenge-accepted/precache-manifest.dfd7ee2cbf2fb873677f5a1948a5b479.js",
+    "precache-manifest.93b18543b62842a4706a6c170fd6dd06.js": "/wirvsvirus-challenge-accepted/precache-manifest.93b18543b62842a4706a6c170fd6dd06.js",
     "service-worker.js": "/wirvsvirus-challenge-accepted/service-worker.js",
-    "static/css/main.9b1431d8.chunk.css.map": "/wirvsvirus-challenge-accepted/static/css/main.9b1431d8.chunk.css.map"
+    "static/css/main.36bac57c.chunk.css.map": "/wirvsvirus-challenge-accepted/static/css/main.36bac57c.chunk.css.map",
+    "static/media/challengeacceptedlogo.png": "/wirvsvirus-challenge-accepted/static/media/challengeacceptedlogo.3febb164.png"
   }
 }

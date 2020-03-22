@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/wirvsvirus-challenge-accepted/precache-manifest.dfd7ee2cbf2fb873677f5a1948a5b479.js"
+  "/wirvsvirus-challenge-accepted/precache-manifest.93b18543b62842a4706a6c170fd6dd06.js"
 );
 
 self.addEventListener('message', (event) => {
