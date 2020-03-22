@@ -31,3 +31,13 @@ h4, h5 {
 .challenge {
   margin: auto;
 }
+
+.challenge-feed {
+  height: 500px;
+  background: lightgray;
+  display: flex;
+  justify-content: space-around;
+}
+
+.challenge-pic {
+}
