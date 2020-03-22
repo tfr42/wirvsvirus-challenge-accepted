@@ -1,5 +1,6 @@
 import React from "react";
 import Logo from "./wirvsviruslogo.png";
+import LogoCA from "./challengeacceptedlogo.png";
 import "./styles.css";
 
 const user = <h4>Anton WG</h4>;
@@ -32,6 +33,9 @@ export default function App() {
         <br/>
         <div className="challenge-pic">{challenges[0].challengePic}</div>
       </div>
+       <footer>
+        <img src={LogoCA} alt="challenge logo" width="50" height="50"/>
+       </footer>
     </div>
   );
 }
