@@ -1,5 +1,5 @@
 import React from "react";
-import Logo from "./wirvsviruslogo.png"
+import Logo from "./wirvsviruslogo.png";
 import "./styles.css";
 
 export default function App() {
